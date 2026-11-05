@@ -20,11 +20,10 @@ plugins:
 - jemoji
 - jekyll-remote-theme
 
-# Site settings
-url: 'https://g-bethel.github.io/'
+url: 'https://g-bethel.github.io'
 baseurl: ''
 title: 'Geneva Bethel'
-description: 'Atmospheric Science M.S. Student at UC Davis'
+description: 'Academic portfolio of Geneva Bethel, M.S. student in Atmospheric Science at UC Davis'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
